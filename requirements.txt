@@ -1,6 +1,10 @@
 pytorch
+torchvision
+lightning
 numpy
 scipy
 scikit-learn
 matplotlib
 jupyter
+pandas
+tqdm

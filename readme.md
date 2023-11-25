@@ -1,0 +1,1 @@
+Project, containing materials for the Deep Learning School. Official repo of the DLS https://github.com/DLSchool/deep-learning-school

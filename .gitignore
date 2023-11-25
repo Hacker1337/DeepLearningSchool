@@ -1,1 +1,13 @@
 .idea
+/16 segmentation/PH2Dataset/
+/16 segmentation/PH2Dataset.rar
+simpson_homework/train
+simpson_homework/testset
+10module/data
+10module/data2
+# 10module
+24 autoencoders/lfw-deepfunneled
+24 autoencoders/lfw_attributes.txt
+19_autoencoders
+**/lightning_logs
+**/wandb
